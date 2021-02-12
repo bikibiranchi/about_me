@@ -1,0 +1,101 @@
+  1  git
+    2  ls
+    3  ls
+    4  cd Desktop/demogitproject/
+    5  git clone https://github.com/bikibiranchi/about_me.git
+    6  cd about_me/
+    7  ls
+    8  cd ..
+    9  ls
+   10  ls
+   11  cd about_me/
+   12  ls
+   13  ls -l
+   14  touch demo.txt
+   15  ls - to see list of files and folder (not related to git)
+   16  history
+   17  code .
+   18  git status - to get the status
+   19  git add .
+   20  git commit -m "my first commit"
+   21  git config --global user.email 'bparida63@gmail.com'
+   22  git config --global user.name 'Biranchi Parida'
+   23  git commit -m "my first commit"
+   24  git status
+   25  git log
+   26  git branch
+   27  git push origin master
+   28  git pull
+   29  git remote -v
+   30  vi .git
+   31  git log
+   32  history
+   33  git fetch
+   34  git checkout origin/staging
+   35  git branch
+   36  git checkout staging
+   37  git brranch
+   38  git branch
+   39  code .
+   40  git status
+   41  git status
+   42  git add sample.txt demo.txt
+   43  git status
+   44  git reset sample.txt
+   45  git status
+   46  git add .
+   47  git status
+   48  git commit -m "Added a another file"
+   49  git log
+   50  git reset --soft HEAD~1
+   51  git log
+   52  git status
+   53  git commit -m "Added an another file"
+   54  git log
+   55  git push
+   56  ls
+   57  git checkout master
+   58  ls
+   59  git branch -M staging_v1
+   60  git branch
+   61  git branch -a
+   62  git branch
+   63  git checkout staging
+   64  git branch -D staging_v1
+   65  git branch -M staging_v1
+   66  git status
+   67  git checkout staging
+   68  git branch -D staging_v1
+   69  git checkout -b staging_v2
+   70  git branch
+   71  git checkout  staging_v3
+   72  git checkout -b staging_v2
+   73  git checkout staging_v2
+   74  history
+   75  pwd
+   76  cd /c/Users/LENOVO/Desktop/demogitproject/about_me
+   77  git status
+   78  git add .
+   79  git commit -m "something.."
+   80  git push
+   81  git push origin staging_v2
+   82  git status
+   83  git add .
+   84  git commit -m "test"
+   85  git push
+   86  git push  origin staging_v2
+   87  git checkout master
+   88  git pull
+   89  git add .
+   90  git commit -m "added few text"
+   91  git push
+   92  git pull
+   93  git stratus
+   94  git status
+   95  git add .
+   96  git commit -m "fixed conflicts"
+   97  git log
+   98  git push
+   99  history
+  100  history|pbcopy
+  101  history
